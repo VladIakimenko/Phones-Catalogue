@@ -1,6 +1,6 @@
 # Phone catalogue
 
-This project represents a Django-based draft for an online Phone Catalogue. It allows users to browse through a list of different phones and see details about each of them. One of the main features of this web application is the ability to perform various searches and sorts.
+This project represents a Django-based draft for an online Phone Catalogue. It allows users to browse through a list of different phones and see details about each of them. One of the main features of this web application is the ability to perform various searches and sorts. The outlook of the pages is set up via Django templates using a bootstrap.
 
 ![Screenshot](./screenshot.png)
 
